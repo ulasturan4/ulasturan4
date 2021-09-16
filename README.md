@@ -1,3 +1,16 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+
+
+
+
 Hello, I am Ulaş Naki Turan. I am a senior student at Marmara University Management Information Systems(in German) department.
 I continue with the programming languages pyhton and r in the software world that I entered with Java and SQL languages.
 I am currently interested in data science and I am doing projects with pyhton and r programming languages. 
