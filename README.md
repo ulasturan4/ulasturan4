@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data Science & Artificial Intelligence**
 
-- 📫 How to reach me ***ulasturan4@gmail.com***
+- 📫 How to reach me **ulasturan4@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ES7C4XU1mTxVaxvgNEZNMiMJBiFpt9Hp/view?usp=sharing](https://drive.google.com/file/d/1ES7C4XU1mTxVaxvgNEZNMiMJBiFpt9Hp/view?usp=sharing)
 
